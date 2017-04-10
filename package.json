@@ -4,9 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
+    "component": "./scripts/component.sh",
     "dev": "webpack-dev-server",
     "lint-js": "eslint ./src/components/**/*.js",
-    "component": "./scripts/component.sh",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

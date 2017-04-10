@@ -1,1 +1,3 @@
-# React stub
+# Chords
+
+Chord finder
